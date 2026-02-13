@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%8C%B1+Growing+Backend+Developer;%E2%98%95+Java+%7C+Spring+Boot+%7C+JPA;%F0%9F%93%9D+Recording+Every+Line+of+Code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%8C%B1+Growing+Backend+Developer;%E2%98%95+Java+%7C+Spring+Boot+%7C+TypeScript;%F0%9F%93%9D+Recording+Every+Line+of+Code" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -18,7 +18,8 @@ role: Backend Developer (Student)
 motto: "코드를 기록하고, 성장하는 개발자"
 ```
 
-- 🌱 현재 **Java / Spring Boot** 를 공부하고 있습니다
+- 🌱 현재 **Java / Spring Boot** 를 중심으로 공부하고 있습니다
+- 💻 **TypeScript** 도 함께 사용하고 있습니다
 - 📝 배운 것을 기록하는 습관을 가지고 있습니다
 - 🎯 목표: 안정적이고 확장 가능한 백엔드 시스템 구축
 - ⚡ Fun fact: **Code Recording** 을 통해 성장합니다
@@ -33,11 +34,15 @@ motto: "코드를 기록하고, 성장하는 개발자"
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,gradle,maven&theme=dark" />
+**Main**
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,mysql,hibernate&theme=dark" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,docker,linux,postman&theme=dark" />
+**Tools & Infra**
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,docker,linux,python&theme=dark" />
 
 <br><br>
 
@@ -53,16 +58,6 @@ motto: "코드를 기록하고, 성장하는 개발자"
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=jakesjk&theme=tokyonight&hide_border=true&background=0D1117" width="60%" />
-
-<br><br>
-
----
-
-## 🏆 GitHub Trophies
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jakesjk&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=6" width="90%" />
 
 <br><br>
 
