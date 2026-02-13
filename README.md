@@ -1,68 +1,90 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=220&section=header&text=dev.jakesjk&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Code%20Recording&descSize=18&descColor=aaaaaa&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=230&section=header&text=dev.jakesjk&fontSize=55&fontColor=ffffff&fontAlignY=32&desc=Backend%20Developer%20%7C%20Code%20Recording&descSize=18&descColor=aaaaaa&descAlignY=52&animation=fadeIn)
 
 <br>
 
-### 🧑‍💻 About Me
-
-**Backend Developer (Student)**
-
-코드를 기록하고, 성장하는 학생 개발자입니다.
-
-<br>
-
----
-
-### 🛠️ Tech Stack
-
-<br>
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%8C%B1+Growing+Backend+Developer;%E2%98%95+Java+%7C+Spring+Boot+%7C+JPA;%F0%9F%93%9D+Recording+Every+Line+of+Code" alt="Typing SVG" /></a>
 
 <br><br>
 
-**Database**
+</div>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
+## 🧑‍💻 About Me
+
+```yaml
+name: dev.jakesjk
+role: Backend Developer (Student)
+motto: "코드를 기록하고, 성장하는 개발자"
+```
+
+- 🌱 현재 **Java / Spring Boot** 를 공부하고 있습니다
+- 📝 배운 것을 기록하는 습관을 가지고 있습니다
+- 🎯 목표: 안정적이고 확장 가능한 백엔드 시스템 구축
+- ⚡ Fun fact: **Code Recording** 을 통해 성장합니다
+
+<br>
+
+<div align="center">
+
+---
+
+## 🛠️ Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,gradle,maven&theme=dark" />
 
 <br><br>
 
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,docker,linux,postman&theme=dark" />
 
 <br><br>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jakesjk&show_icons=true&theme=gray-white&hide_border=true&bg_color=00000000&title_color=333333&text_color=555555&icon_color=6DB33F" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakesjk&layout=compact&theme=gray-white&hide_border=true&bg_color=00000000&title_color=333333&text_color=555555" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jakesjk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakesjk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="41%" />
 
-<br>
+<br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jakesjk&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j&ring=6DB33F&fire=6DB33F&currStreakLabel=333333)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=jakesjk&theme=tokyonight&hide_border=true&background=0D1117" width="60%" />
 
-<br>
+<br><br>
 
 ---
 
-### 📫 Contact
+## 🏆 GitHub Trophies
 
-<a href="https://github.com/jakesjk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a>
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=jakesjk&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=6" width="90%" />
+
+<br><br>
+
+---
+
+## 🐍 Contribution Graph
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jakesjk/jakesjk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jakesjk/jakesjk/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jakesjk/jakesjk/output/github-snake.svg" />
+</picture>
+
+<br><br>
+
+---
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jakesjk&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" />
 
 <br><br>
 
