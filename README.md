@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br>
@@ -40,7 +39,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <br>
 
@@ -50,10 +48,14 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jakesjk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakesjk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakesjk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jakesjk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" />
 
 <br><br>
+
+### 🔥 Streak & Activity
+
+<br>
 
 <img src="https://streak-stats.demolab.com?user=jakesjk&theme=tokyonight&hide_border=true&background=0D1117" height="200" />
 
