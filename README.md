@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
@@ -48,14 +49,10 @@
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jakesjk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jakesjk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jakesjk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jakesjk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" />
 
 <br><br>
-
-### 🔥 Streak & Activity
-
-<br>
 
 <img src="https://streak-stats.demolab.com?user=jakesjk&theme=tokyonight&hide_border=true&background=0D1117" height="200" />
 
