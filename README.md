@@ -1,73 +1,32 @@
-<div align="center">
+# 김성재 · AX Engineer
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=200&section=header&text=dev.jakesjk&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Code%20Recording&descSize=16&descColor=aaaaaa&descAlignY=55&animation=fadeIn)
+AI로 일하는 방식을 바꾸고 그 결과를 믿을 수 있게 만듭니다.
+모든 문제에 시스템적 사고, 근거 중심의 판단, 끝까지 운영하는 책임감으로 접근합니다.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&random=false&width=450&height=35&lines=%F0%9F%8C%B1+Growing+Backend+Developer;%E2%98%95+Java+%7C+Spring+Boot+%7C+TypeScript;%F0%9F%93%9D+Recording+Every+Line+of+Code" alt="Typing SVG" /></a>
+**[포트폴리오](https://jakesjk.github.io/me/)** · **[이력서](https://jakesjk.github.io/me/resume/)** · **[해결 사례 13건](https://jakesjk.github.io/me/work/)** · jakesungjaekim@gmail.com
 
-<br>
+## 프로젝트
 
----
+| 프로젝트 | 무엇을 | 근거 |
+|---|---|---|
+| [Lunarc](https://jakesjk.github.io/me/projects/lunarc/) · [App Store](https://apps.apple.com/kr/app/id6769979902) | 시간 블록 단위로 하루를 설계하는 iOS 앱. 기획부터 출시 · 운영까지 1인 | 누적 다운로드 44 · 11개국 · 운영비 월 $0 |
+| [LangPickle](https://jakesjk.github.io/me/projects/langpickle/) · [App Store](https://apps.apple.com/kr/app/id6799830099) | 협업 프로젝트. 출시 책임자로 콘텐츠 공급 구조 · 요금제 · 결함을 다시 짜고 1.0과 1.1.0 출시 | 해외 팟캐스트 3곳 서면 허락 · 월 20편 상한 |
+| [Mk](https://jakesjk.github.io/me/projects/mk/) | 규칙을 훅으로 집행하는 개인 AI 에이전트 하네스 | 훅 19 · 에이전트 6 · 스킬 10 · 자체 검증 211항목 |
+| [Shift](https://jakesjk.github.io/me/projects/shift/) | 여러 에이전트가 레포 기록으로 일을 넘겨받는 하네스 | 테스트 881건 · A/B eval 4사례 |
 
-### 🛠️ Tech Stack
+제품 코드 저장소는 비공개입니다. 판단과 검증 과정은 포트폴리오의 해결 사례에 원본 기록 값으로 정리했습니다.
 
-**Backend**
+## AI 협업 원칙
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+1. AI가 만든 코드는 검증을 통과해야 믿습니다
+2. AI 기능은 모델 바깥부터 설계합니다
+3. 직접 돌려 본 결과로 정합니다
+4. 꼭 지킬 규칙은 도구로 강제합니다
+5. 결정은 되돌릴 수 있게 내립니다
+6. 만든 것은 출시하고 끝까지 운영합니다
 
-<br>
+## 기술
 
-**Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-<br>
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<br>
-
----
-
-### 📊 GitHub Stats
-
-<br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jakesjk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jakesjk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=jakesjk&theme=tokyonight&hide_border=true&background=0D1117" height="200" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jakesjk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=6DB33F&point=ffffff&area=true&area_color=6DB33F" width="95%" />
-
-<br>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=jakesjk&style=flat-square&color=6DB33F&label=Profile+Views" />
-
-<br><br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer)
-
-</div>
+- **AI** LLM API 연동(Workers AI · Claude API) · eval(모델 A/B · 하네스 A/B) · context engineering · agent harness
+- **Backend** TypeScript · Hono · Cloudflare Workers · D1 · Drizzle ORM · Vitest
+- **iOS** Swift · SwiftUI · WidgetKit · StoreKit 2 · Swift Testing
