@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="324" viewBox="0 0 985 324" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">
+<rect width="100%" height="100%" rx="14" fill="#ffffff"/>
+<rect x="60" y="63" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="80" y="63" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="100" y="63" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="40" y="83" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="120" y="83" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="40" y="103" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="120" y="103" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="40" y="123" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="60" y="123" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="80" y="123" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="100" y="123" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="120" y="123" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="40" y="143" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="120" y="143" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="40" y="163" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="120" y="163" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="40" y="183" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="120" y="183" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="160" y="63" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="240" y="63" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="160" y="83" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="240" y="83" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="180" y="103" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="220" y="103" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="200" y="123" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="180" y="143" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="220" y="143" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="160" y="163" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="240" y="163" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="160" y="183" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<rect x="240" y="183" width="17" height="17" rx="3" fill="#2f5fd0"/>
+<text x="40" y="229" fill="#2f5fd0" font-size="14" font-weight="700" letter-spacing="8.6">ENGINEER</text>
+<text x="40" y="255" fill="#8c959f" font-size="13">김성재 · Jake Kim</text>
+<text x="330" y="44" fill="#0550ae" font-weight="700">jake@kim</text>
+<line x1="330" y1="61" x2="949" y2="61" stroke="#8c959f" stroke-dasharray="3 3"/>
+<text x="330" y="92"><tspan fill="#bc4c00">Role</tspan><tspan fill="#8c959f">:</tspan></text><text x="448" y="92" fill="#24292f">AX Engineer · AI로 일하는 방식을 바꿉니다</text>
+<text x="330" y="116"><tspan fill="#bc4c00">Shipping</tspan><tspan fill="#8c959f">:</tspan></text><text x="448" y="116" fill="#24292f">Lunarc (iOS, 1인) · LangPickle (협업)</text>
+<text x="330" y="140"><tspan fill="#bc4c00">Harness</tspan><tspan fill="#8c959f">:</tspan></text><text x="448" y="140" fill="#24292f">Mk 훅 19 · 스킬 10 · Shift 테스트 881</text>
+<text x="330" y="164"><tspan fill="#bc4c00">Lately</tspan><tspan fill="#8c959f">:</tspan></text><text x="448" y="164" fill="#24292f">Claude Code 에이전트 · LLM eval · MCP</text>
+<text x="330" y="212" fill="#0550ae" font-weight="700">contact</text>
+<line x1="330" y1="229" x2="949" y2="229" stroke="#8c959f" stroke-dasharray="3 3"/>
+<text x="330" y="260"><tspan fill="#bc4c00">Portfolio</tspan><tspan fill="#8c959f">:</tspan></text><text x="448" y="260" fill="#24292f">jakesjk.github.io/me</text>
+<text x="330" y="284"><tspan fill="#bc4c00">Email</tspan><tspan fill="#8c959f">:</tspan></text><text x="448" y="284" fill="#24292f">jakesungjaekim@gmail.com</text>
+</svg>
